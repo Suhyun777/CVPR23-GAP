@@ -100,7 +100,6 @@ python main.py --dataset_for_source miniImageNet --dataset_for_target CARS --gpu
 python main.py --dataset_for_source miniImageNet --dataset_for_target CUB --gpu_id 0 --N_ways 5 --K_shots_for_support 1 --use-cuda --GAP --test
 ```
 
-## Evaluation
 To evaluate the trained model(s) using Approximate GAP, run this command:
 ```
 # Source: miniImageNet >> Target: miniImageNet on 5-way 1-shot
