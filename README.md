@@ -5,7 +5,8 @@ This repository provides a Official PyTorch implementation of our CVPR 2023 pape
 + [arXiv version (will be made available)](https://...)
 
 ## Abstract
-[Figure]
+<p float="left">
+<img src='imgs/property1_figure.png' width='' height=''>
 Model-agnostic meta-learning (MAML) is one of the most successful meta-learning algorithms. 
 It has a bi-level optimization structure where the outer-loop process learns a shared initialization and the inner-loop process optimizes task-specific weights. 
 Although MAML relies on the standard gradient descent in the inner-loop, recent studies have shown that controlling the inner-loop’s gradient descent with a meta-learned preconditioner can be beneficial. 
