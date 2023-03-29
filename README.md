@@ -49,7 +49,7 @@ This codes requires the following
   - Require argument `--download` when running the command for the first time.
 - **CUB**
   - Download _CUB_200_2011.tgz_ dataset from http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/
-  - Make the folder _CUB_200_2011.tgz_ and move the _CUB_200_2011.tgz_ into _cub_.
+  - Make the folder _cub_ and move the _CUB_200_2011.tgz_ into _cub_.
   - Set the path of the folder where the data is downloaded through the argument `--folder`.
   - Require argument `--download` when running the command for the first time.
 
