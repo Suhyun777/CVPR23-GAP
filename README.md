@@ -2,7 +2,7 @@
 
 This repository provides a Official PyTorch implementation of our CVPR 2023 paper ***Meta-Learning with a Geometry-Adaptive Preconditioner.***
 + [CVPR 2023 paper (will be made available)](https://...) 
-+ [arXiv version (will be made available)](https://...)
++ [arXiv version (will be made available)](https://arxiv.org/abs/2304.01552)
 
 ## Abstract
 <p float="left">
