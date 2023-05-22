@@ -1,7 +1,7 @@
 # (CVPR 2023) Meta-Learning with a Geometry-Adaptive Preconditioner
 
 This repository provides a Official PyTorch implementation of our CVPR 2023 paper ***Meta-Learning with a Geometry-Adaptive Preconditioner.***
-+ [CVPR 2023 paper (will be made available)](https://openaccess.thecvf.com/content/CVPR2023/html/Kang_Meta-Learning_With_a_Geometry-Adaptive_Preconditioner_CVPR_2023_paper.html) 
++ [CVPR 2023 open access](https://openaccess.thecvf.com/content/CVPR2023/html/Kang_Meta-Learning_With_a_Geometry-Adaptive_Preconditioner_CVPR_2023_paper.html) 
 + [arXiv version](https://arxiv.org/abs/2304.01552)
 
 ## Abstract
