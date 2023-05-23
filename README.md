@@ -135,7 +135,13 @@ python main.py --dataset_for_source miniImageNet --dataset_for_target CUB --gpu_
 ## Citation
 Please consider citing our work if you find our repository/paper useful.
 ```
-@inproceedings{currently not available
+@InProceedings{Kang_2023_CVPR,
+    author    = {Kang, Suhyun and Hwang, Duhun and Eo, Moonjung and Kim, Taesup and Rhee, Wonjong},
+    title     = {Meta-Learning With a Geometry-Adaptive Preconditioner},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {16080-16090}
 }
 ```
 
